@@ -20,7 +20,7 @@
 
 ### Step 1: Download Ubuntu ISO
 1. Open a web browser and go to the [Ubuntu download page](https://ubuntu.com/download/desktop).
-2. Click on the `Download` button to get the latest version of Ubuntu Desktop. ( make sure ots version 24.04 LTS ( Desktop ) )
+2. Click on the `Download` button to get the latest version of Ubuntu Desktop. ( make sure its version 24.04 LTS ( Desktop ) )
 3. Save the ISO file to your computer.
 
 ### Step 2: Create a New Virtual Machine in VirtualBox
