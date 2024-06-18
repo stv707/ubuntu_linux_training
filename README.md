@@ -71,3 +71,6 @@
 ## Download the Guide
 
 [Download the full guide in MS Word format](./VGuide.docx)
+
+
+# LAST UPDATE
